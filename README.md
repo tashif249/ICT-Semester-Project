@@ -31,10 +31,10 @@ It allows users to test their knowledge through multiple-choice questions with i
 - **HTML5** – Structure and layout  
 - **CSS3** – Styling and animations  
 - **JavaScript (ES6)** – Quiz logic, score handling, and interactivity  
-Project Name: Quiz APP  
+---  
 
-###      <img width="153" height="148" alt="image" src="https://github.com/user-attachments/assets/71f9b884-0bd9-411e-9c8f-ebd26896424d" />
-###👬 Members Names:     
+   ###  <img width="153" height="148" alt="image" src="https://github.com/user-attachments/assets/71f9b884-0bd9-411e-9c8f-ebd26896424d" />
+### 👬 Members Names:     
 
 1.Tashif Javid 25F-0790   
 
