@@ -1,4 +1,4 @@
-# ICT-Semester-Project 
+# ICT-Semester-Project QUIZ APP
 
 Project Name: Quiz APP  
 
