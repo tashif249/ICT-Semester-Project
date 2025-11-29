@@ -1,0 +1,80 @@
+/* Animated Background */
+body{
+    background: linear-gradient(135deg, #3a0ca3, #7209b7, #4361ee, #4cc9f0);
+    background-size: 400% 400%;
+    animation: gradientShift 12s ease infinite;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+}
+
+@keyframes gradientShift {
+    0% { background-position: 0% 50%; }
+    50% { background-position: 100% 50%; }
+    100% { background-position: 0% 50%; }
+}
+
+/* Navigation Bar */
+nav{
+    background: rgba(255, 255, 255, 0.15);
+    padding: 15px;
+    backdrop-filter: blur(6px);
+}
+nav a{
+    color: white;
+    margin: 0 20px;
+    text-decoration: none;
+    font-size: 18px;
+    font-weight: bold;
+}
+nav a:hover{
+    color: #00eaff;
+}
+
+/* Home Page */
+.hero{
+    padding: 100px 20px;
+}
+.hero h1{
+    font-size: 50px;
+}
+.hero p{
+    font-size: 20px;
+    opacity: 0.9;
+}
+
+/* About Page */
+.content-box{
+    margin: 60px auto;
+    max-width: 700px;
+    background: rgba(255,255,255,0.15);
+    padding: 30px;
+    border-radius: 10px;
+    text-align: left;
+}
+
+/* Quiz Page */
+#quiz-container{
+    max-width: 600px;
+    margin: 30px auto;
+    text-align: left;
+}
+.question{
+    border: 1px solid white;
+    border-radius: 5px;
+    margin-bottom: 20px;
+    padding: 10px;
+}
+button{
+    padding: 10px 20px;
+    background: #ffffff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-weight: bold;
+}
+button:hover{
+    background: #ffffff;
+}
